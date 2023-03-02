@@ -1,0 +1,9 @@
+Write a program and use the attached file ( babynames. txt) as input file,
+and create two output files. One file listing out all boys names, and the other file listing out all girls name. Need to include file not found exception handling in your code (2 points)
+
+also
+
+Please display on the screen the total number of
+1) total number of boy babies born in that year (2 points)
+2) total number of girl babies born in that year (2 points)
+3) what's the name of baby (boy or girl) that first crossed 10 Millionth babies (summing from most popular baby names, that is, from the top down.)? (2 points)
