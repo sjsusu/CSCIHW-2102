@@ -1,0 +1,9 @@
+Write a programs that teaches arithmetic to a young child.
+The program tests addition and suctraction. 
+In level 1, it test only addition of numbers less than 10 whose sum is less than 10.
+In level 2, it tests addition of arbitrary one-digit numbers.
+In level 3, it test subtraction of one-digit numbers with a nonnegative difference.
+
+Generate random problems and get the player's input. 
+The player gets up to two tries per problem. 
+Advance from one level to the next when the player has acieved a score of five points
